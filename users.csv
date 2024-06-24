@@ -1,0 +1,16 @@
+user_id,activity_area,bio,birth_date,blog_url,cant_foods,considerations,email,fav_food,gender,image_url,job,password,provider,role,username 
+1,food,항상 새로운 맛을 찾아다니는 대학생입니다.,2002-06-16,https://blog.naver.com/foodie1,고수,"['메뉴의 다양성', '음식의 양', '가격 수준']",,"치킨, 피자, 햄버거",male,,대학생,,,USER,foodie1
+2,food,건강한 음식과 카페 투어를 좋아하는 신입사원입니다.,1999-02-09,https://blog.naver.com/healthy_girl,"고추, 청양고추, 매운, 견과류, 해산물","['음식의 맛', '건강에 좋은 요리', '분위기']",,"샐러드, 스무디, 해산물 요리",female,,신입사원,,,USER,healthy_girl
+3,food,여행과 사진 촬영을 즐기는 IT 엔지니어입니다.,1990-05-04,https://blog.naver.com/traveler_guy,"견과류, 아몬드, 땅콩, 호두","['교통의 편리성', '주차의 편리함', '서비스 정도']",,"스테이크, 파스타, 라면",male,,IT 엔지니어,,,USER,traveler_guy
+4,food,메뉴의 다양성을 좋아하는 마케터입니다.,1991-11-22,https://blog.naver.com/marketing_queen,"고기, 돼지고기, 소고기, 닭고기","['음식의 청결도', '메뉴의 다양성', '할인 및 프로모션']",,"초밥, 덮밥, 디저트",female,,마케터,,,USER,marketing_queen
+5,food,골프와 와인을 즐기는 은행원입니다.,1979-05-24,https://blog.naver.com/golf_enthusiast,"유제품, 우유, 치즈, 크림","['음식의 맛', '가격 수준', '주차의 편리함']",,"한식, 전골, 회",male,,은행원,,,USER,golf_enthusiast
+6,food,요리와 가드닝을 좋아하는 주부입니다.,1981-03-04,https://blog.naver.com/home_cook,"해산물, 새우, 오징어, 조개","['음식의 청결도', '분위기', '부대시설']",,"한식, 분식, 디저트",female,,주부,,,USER,home_cook
+7,food,등산과 낚시를 즐기는 자영업자입니다.,1972-04-05,https://blog.naver.com/mountain_man,"초콜릿, 코코아","['건강에 좋은 요리', '음식의 맛', '교통의 편리성']",,"삼계탕, 보쌈, 불고기",male,,자영업자,,,USER,mountain_man
+8,food,독서와 미술관 투어를 좋아하는 프리랜서 작가입니다.,1974-04-06,https://blog.naver.com/artsy_writer,"고추, 청양고추, 매운","['가격 수준', '서비스 정도', '예약의 용이함']",,"국수, 전통 한식, 차",female,,프리랜서 작가,,,USER,artsy_writer
+9,food,산책과 정원 가꾸기를 좋아하는 은퇴자입니다.,1958-09-01,https://blog.naver.com/retired_gent,"고기, 돼지고기, 소고기, 닭고기","['음식의 청결도', '건강에 좋은 요리', '분위기']",,"생선구이, 나물, 찌개",male,,은퇴,,,USER,retired_gent
+10,food,여행과 요가를 즐기는 은퇴자입니다.,1961-08-01,https://blog.naver.com/yoga_grandma,"해산물, 새우, 오징어, 조개","['부대시설', '메뉴의 다양성', '가격 수준']",,"전통 한식, 디저트, 차",female,,은퇴,,,USER,yoga_grandma
+11,food,게임과 유튜브를 좋아하는 대학생입니다.,2000-07-20,https://blog.naver.com/gaming_guy,고수,"['음식의 양', '가격 수준', '분위기']",,"버거, 감자튀김, 피자",male,,대학생,,,USER,gaming_guy
+12,food,영화와 쇼핑을 좋아하는 회사원입니다.,1992-08-17,https://blog.naver.com/movie_buff,"고추, 청양고추, 매운, 견과류","['메뉴의 다양성', '음식의 맛', '서비스 정도']",,"샐러드, 파스타, 해산물",female,,회사원,,,USER,movie_buff
+13,food,독서와 골프를 즐기는 변호사입니다.,1976-08-09,https://blog.naver.com/lawyer_life,"유제품, 우유, 치즈, 크림","['주차의 편리함', '음식의 청결도', '음식의 맛']",,"스테이크, 와인, 한식",male,,변호사,,,USER,lawyer_life
+14,food,요가와 독서를 좋아하는 교수입니다.,1969-09-18,https://blog.naver.com/professor_vegan,"고기, 돼지고기, 소고기, 닭고기","['가격 수준', '건강에 좋은 요리', '분위기']",,"채식 요리, 해산물, 샐러드",female,,교수,,,USER,professor_vegan
+15,food,정원 가꾸기와 산책을 좋아하는 은퇴자입니다.,1963-11-02,https://blog.naver.com/garden_grandpa,"고기, 돼지고기, 소고기, 닭고기","['음식의 맛', '부대시설', '교통의 편리성']",,"한식, 찌개, 생선",male,,은퇴,,,USER,garden_grandpa
